@@ -1,7 +1,7 @@
 import React from "react";
 import { shallow } from "enzyme";
 import renderer from "react-test-renderer";
-import CookbookCard from "./CookBookCard";
+import CookbookCard from "./CookbookCard";
 
 describe("CookBook Card", () => {
   it("renders the cookbook card", () => {
