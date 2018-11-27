@@ -14,4 +14,4 @@ Built using Create React App to practice TDD by writing unit tests first and wri
 
 ## Future Features
 
-Next I want to add a page for a blog using ButterCMS to request blog posts and a menu.
+Next I want to add a page for a blog using [ButterCMS](https://buttercms.com/) to request blog posts and a menu.
