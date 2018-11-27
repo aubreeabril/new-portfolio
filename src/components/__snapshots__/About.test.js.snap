@@ -4,9 +4,6 @@ exports[`About matches its snapshot 1`] = `
 <div
   className="About"
 >
-  <a
-    name="about"
-  />
   <div
     className="jumbotron"
     style={

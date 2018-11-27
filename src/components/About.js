@@ -4,7 +4,6 @@ import { Jumbotron, Card, CardText } from "reactstrap";
 const About = props => {
   return (
     <div className="About">
-      <a name="about" />
       <Jumbotron
         style={{ minHeight: window.innerHeight, backgroundColor: "white" }}
       >

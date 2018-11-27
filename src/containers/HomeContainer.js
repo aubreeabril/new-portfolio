@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Jumbotron } from "reactstrap";
-import Menu from "../components/Menu";
 import About from "../components/About";
 import ProjectsContainer from "./ProjectsContainer";
 import Contact from "../components/Contact";
@@ -9,7 +8,6 @@ class HomeContainer extends Component {
   render() {
     return (
       <div className="home-container">
-        <a name="aa" />
         <Jumbotron
           style={{
             height: window.innerHeight,

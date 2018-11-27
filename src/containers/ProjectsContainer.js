@@ -7,7 +7,6 @@ import HabitTrackerCard from "../components/HabitTrackerCard";
 const ProjectsContainer = () => {
   return (
     <div className="projects-container">
-      <a name="projects" />
       <Jumbotron
         style={{ minHeight: window.innerHeight, backgroundColor: "#bd8c7d" }}
       >
