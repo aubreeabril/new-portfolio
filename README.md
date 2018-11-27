@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio [![Build Status](https://travis-ci.org/aubreeabril/new-portfolio.svg?branch=master)](https://travis-ci.org/aubreeabril/new-portfolio)
 
 Built using Create React App to practice TDD by writing unit tests first and writing components next.
 
