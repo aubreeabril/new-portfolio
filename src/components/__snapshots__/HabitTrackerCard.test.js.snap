@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Habit Tracker Card matches its snapshot 1`] = `
+<div
+  className="project-card habit-tracker card"
+>
+  <div
+    className="card-image"
+  >
+    <iframe
+      allow="autoplay; encrypted-media"
+      allowfullscreen={true}
+      frameborder="0"
+      src="https://www.youtube.com/embed/KeW_IQzL-3I"
+      title="Habit Tracker demo"
+      width="100%"
+    />
+  </div>
+  <h5
+    className="card-title"
+    style={
+      Object {
+        "padding": "10px",
+      }
+    }
+  >
+    Habit Tracker
+  </h5>
+  <p
+    className="project-text card-text"
+  >
+    An application for finding and saving recipes. Built with a Rails API backend and vanilla JS frontend, styled using Semantic UI.
+  </p>
+</div>
+`;

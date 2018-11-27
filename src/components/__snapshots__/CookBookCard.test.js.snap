@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CookBook Card matches its snapshot 1`] = `
+<div
+  className="project-card cook-book card"
+>
+  <div
+    className="card-image"
+  >
+    <iframe
+      allow="autoplay; encrypted-media"
+      allowfullscreen={true}
+      frameborder="0"
+      src="https://www.youtube.com/embed/gSKpxNr7-_s"
+      title="Cookbook demo"
+      width="100%"
+    />
+  </div>
+  <h5
+    className="card-title"
+    style={
+      Object {
+        "padding": "10px",
+      }
+    }
+  >
+    Flatiron Cookbook
+  </h5>
+  <p
+    className="project-text card-text"
+  >
+    An application for finding and saving recipes. Built with a Rails API backend and React frontend, styled with Semantic-React.
+  </p>
+</div>
+`;

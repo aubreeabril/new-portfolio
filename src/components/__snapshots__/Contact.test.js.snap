@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact matches its snapshot 1`] = `
+<div
+  className="contact-text"
+>
+  <a
+    href="https://twitter.com/aubreeabril"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    <i
+      className="fab fa-twitter"
+    />
+  </a>
+  <a
+    href="https://github.com/aubreeabril"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    <i
+      className="fab fa-github"
+    />
+  </a>
+  <a
+    href="mailto:aubree.abril@gmail.com"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    <i
+      className="fas fa-envelope"
+    />
+  </a>
+</div>
+`;

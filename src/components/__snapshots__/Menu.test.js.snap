@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu matches its snapshot 1`] = `
+<nav
+  className="menu navbar sticky-top"
+>
+  <ul
+    className="nav"
+  >
+    <a
+      className="navbar-brand"
+      href="/portfolio/#aa"
+    >
+      <strong>
+        AA
+      </strong>
+    </a>
+    <li
+      className="nav-item"
+    >
+      <strong>
+        <a
+          className="nav-link"
+          href="/portfolio/#about"
+          onClick={[Function]}
+        >
+          About
+        </a>
+      </strong>
+    </li>
+    <li
+      className="nav-item"
+    >
+      <strong>
+        <a
+          className="nav-link"
+          href="/portfolio/#projects"
+          onClick={[Function]}
+        >
+          Projects
+        </a>
+      </strong>
+    </li>
+  </ul>
+</nav>
+`;

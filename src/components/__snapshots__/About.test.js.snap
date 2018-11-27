@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About matches its snapshot 1`] = `
+<div
+  className="About"
+>
+  <a
+    name="about"
+  />
+  <div
+    className="jumbotron"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "minHeight": 768,
+      }
+    }
+  >
+    <i
+      className="fas fa-code"
+      style={
+        Object {
+          "color": "#d1bfa7",
+          "fontSize": "7em",
+          "margin": "20px",
+          "textAlign": "right",
+        }
+      }
+    />
+    <div
+      className="text-left gold-card card"
+    >
+      <p
+        className="gold-card-text card-text"
+      >
+        I'm a full-stack web developer and recovering journalist with experience in
+         
+        <span
+          className="emphasized"
+        >
+          <strong>
+            Ruby on Rails
+          </strong>
+        </span>
+        ,
+         
+        <span
+          className="emphasized"
+        >
+          <strong>
+            JavaScript
+          </strong>
+        </span>
+         
+        and
+         
+        <span
+          className="emphasized"
+        >
+          <strong>
+            React
+          </strong>
+        </span>
+        . In my previous life, I worked on a team that was responsible for emailing developers when things were broken and discovered I wanted to be the one making improvements instead.
+      </p>
+    </div>
+  </div>
+</div>
+`;

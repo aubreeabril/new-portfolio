@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Club Card matches its snapshot 1`] = `
+<div
+  className="project-card book-club card"
+>
+  <div
+    className="card-image"
+  >
+    <iframe
+      allow="autoplay; encrypted-media"
+      allowfullscreen={true}
+      frameborder="0"
+      src="https://www.youtube.com/embed/bkCJCK8nF2Y"
+      title="Book Club demo"
+      width="100%"
+    />
+  </div>
+  <h5
+    className="card-title"
+    style={
+      Object {
+        "padding": "10px",
+      }
+    }
+  >
+    Book Club
+  </h5>
+  <p
+    className="project-text card-text"
+  >
+    A single page web application for book club management. Built with a Rails API backend and React/Redux frontend, styled with Ant Design.
+  </p>
+</div>
+`;
